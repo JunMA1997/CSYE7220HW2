@@ -8,18 +8,18 @@ using Microsoft.Extensions.Logging;
 
 namespace HW2.Pages
 {
-    public class MemoriesModel : PageModel
+    public class AThingModel : PageModel
     {
-        private readonly ILogger<MemoriesModel> _logger;
+        private readonly ILogger<AThingModel> _logger;
 
-        public MemoriesModel(ILogger<MemoriesModel> logger)
+        public AThingModel(ILogger<AThingModel> logger)
         {
             _logger = logger;
         }
 
         public void OnGet()
         {
-            _logger.LogInformation($"Memories");
+            _logger.LogInformation($"I don't want to miss a thing");
             // _logger.LogInformation((int)LoggingEvents.Networkking,"logwork memories", url);
         }
     }

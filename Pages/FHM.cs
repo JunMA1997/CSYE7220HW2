@@ -19,6 +19,7 @@ namespace HW2.Pages
 
         public void OnGet()
         {
+            _logger.LogInformation($"500 miles");
             // _logger.LogInformation((int)LoggingEvents.Networkking,"logwork memories", url);
         }
     }

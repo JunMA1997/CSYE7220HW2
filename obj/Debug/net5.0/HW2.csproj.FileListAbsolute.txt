@@ -40,3 +40,4 @@ C:\Users\52909\Desktop\7220 devops\CSYE7220\HW2\obj\Debug\net5.0\HW2.pdb
 C:\Users\52909\Desktop\7220 devops\CSYE7220\HW2\obj\Debug\net5.0\HW2.genruntimeconfig.cache
 C:\Users\52909\Desktop\7220 devops\CSYE7220\HW2\obj\Debug\net5.0\HW2.csproj.CopyComplete
 C:\Users\52909\Desktop\7220 devops\CSYE7220\HW2\obj\Debug\net5.0\Razor\Pages\FHM.cshtml.g.cs
+C:\Users\52909\Desktop\7220 devops\CSYE7220\HW2\obj\Debug\net5.0\Razor\Pages\AThing.cshtml.g.cs
