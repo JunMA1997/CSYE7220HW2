@@ -1,4 +1,8 @@
-three lyrics shared web page.
+# introduction
+* three lyrics shared web page.
+* static file in wwwroot.
+# extra denpendencies
+* no extra denpendencies.
 
-static file in wwwroot.
-
+# running code
+* dotnet run
